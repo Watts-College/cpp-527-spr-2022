@@ -13,14 +13,14 @@ info:
  course_title: Foundations of Data Science Part II
  course_number: CPP 527 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/99223'
- course_start_end_dates: August 19th to October 8th, 2021
+ course_website: 'https://canvas.asu.edu/courses/108491'
+ course_start_end_dates: January 10th to March 1st, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
  review_sessions_when: Monday, 12pm AZ 
  review_sessions_where: Zoom
- discussion_board_url: 'https://ds4ps.org/cpp-527-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-527-spr-2022/help/'
 
 instructor:
 -  name: Jesse Lecy
