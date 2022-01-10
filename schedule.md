@@ -18,12 +18,12 @@ yellowdig:
   
 
 labs:
-  lab-01:  'Thursday, Aug 26th' 
-  lab-02:  'Tuesday, August 31st'
-  lab-03:  'Thursday, September 9th'
-  lab-04:  'Tuesday, September 14th'
-  lab-05:  'Tuesday, September 21st'
-  lab-06:  'Monday, October 1st'
+  lab-01:  'Tuesday, January 18th' 
+  lab-02:  'Tuesday, January 25tht'
+  lab-03:  'Tuesday, Feburary 1st'
+  lab-04:  'Tuesday, Feburary 8th'
+  lab-05:  'Tuesday, Feburary 15th'
+  lab-06:  'Tuesday, Feburary 22nd'
   
   
 projects: 
