@@ -2,13 +2,13 @@
 layout: default
 
 yellowdig: 
-  post-00: 'Friday, August 20th'
-  post-01: 'Friday, August 27th' 
-  post-02: 'Friday, September 3rd' 
-  post-03: 'Friday, September 10th' 
-  post-04: 'Friday, September 17th' 
-  post-05: 'Friday, September 24th' 
-  post-06: 'Friday, October 1st' 
+  post-00: 'Friday, January 14th'
+  post-01: 'Friday, January 21st' 
+  post-02: 'Friday, January 28th' 
+  post-03: 'Friday, February 4th' 
+  post-04: 'Friday, February 11th' 
+  post-05: 'Friday, February 18th' 
+  post-06: 'Friday, February 25th' 
   
 ---
 
