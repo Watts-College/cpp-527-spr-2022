@@ -20,7 +20,7 @@ info:
  class_meets_where:  'https://asu.zoom.us/j/87540573400'
  review_sessions_when: Thursday, 7:30 pm AZ 
  review_sessions_where: Zoom
- discussion_board_url: 'https://watts-college.github.io/cpp-527-spr-2022/help/'
+ discussion_board_url: 'https://github.com/Watts-College/cpp-527-spr-2022/issues'
 
 instructor:
 -  name: David Selby
