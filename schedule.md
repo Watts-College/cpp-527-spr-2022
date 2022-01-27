@@ -27,7 +27,7 @@ labs:
   
   
 projects: 
-  r-package:  'Friday, January 28th'
+  r-package:  'Tuesday, Feburary 8th'
   report-template:  'Friday, February 26th'
   code-through:  'Optional'
   
